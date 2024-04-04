@@ -15,10 +15,10 @@ Pour lancer Boxy Generator localement, suivez ces étapes :
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/yourusername/boxy-generator.git
+git clone https://github.com/yourusername/Box-Shadow-Studio.git
 
 # Aller dans le répertoire du projet
-cd boxy-generator
+cd Box-Shadow-Studio
 
 # Installer les dépendances
 npm install
