@@ -15,7 +15,7 @@ Pour lancer Boxy Generator localement, suivez ces étapes :
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/yourusername/Box-Shadow-Studio.git
+git clone https://github.com/mathieu-soussignan/Box-Shadow-Studio.git
 
 # Aller dans le répertoire du projet
 cd Box-Shadow-Studio
@@ -27,6 +27,7 @@ npm install
 npm run dev
 
 ```
+
 ## Utilisation
 
 -Ajustez les curseurs pour configurer l'ombre de la boîte.
@@ -39,5 +40,6 @@ npm run dev
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 ## Contact
+
 Soussignan Mathieu - mathieu.soussignan@hotmail.fr
 Lien du projet : https://github.com/mathieu-soussignan/Box-Shadow-Studio
